@@ -8,4 +8,4 @@ A React Library which will contain all the UI components such as Filters , Pagin
 5. Bootstrap
 
 Clean and Commented Code is accepted . 
-Writing unit test and integration code  is also required for each function of the component . Interested users can contact me at kashyap959821@gmail.com.
+Writing unit test and integration test code  is also required for each function of the component . Interested users can contact me at kashyap959821@gmail.com.
